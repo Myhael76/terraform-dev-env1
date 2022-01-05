@@ -1,0 +1,8 @@
+####################
+# common variables #
+####################
+location    = "germanywestcentral"
+# location    = "westeurope"
+
+azure-subscription-id = ""
+# azure-tenant-id = ""
